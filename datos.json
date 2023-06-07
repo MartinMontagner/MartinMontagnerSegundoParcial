@@ -1,0 +1,23 @@
+{
+  "sanos": [
+    {
+      "nombre": "Martin",
+      "apellido": "Montagner",
+      "edad": 26,
+      "barrio": "parque luro",
+      "dni": "40306986",
+      "ocupacion": "Empleado",
+      "numeroKit": 91
+    },
+    {
+      "nombre": "Fran",
+      "apellido": "Guidi",
+      "edad": 22,
+      "barrio": "Las toninas",
+      "dni": "44375485",
+      "ocupacion": "Estudiante",
+      "numeroKit": 31
+    }
+  ],
+  "aislar": []
+}
